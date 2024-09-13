@@ -2,4 +2,4 @@
 使用selenium和langchain框架，获取百度学术上的文献知识并回答问答。
 baiduxueshu.py可以用在windows下，
 BSlinux.py可以部署在服务器上，需要提前按照您的服务器的操作系统版本下载google-Chrome和chromedriver。
-此项目在不断更新中。
+此项目在不断更新中2024.9.13。
